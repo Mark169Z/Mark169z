@@ -6,8 +6,12 @@
 - 🌱 I’m currently learning **Cyber Security and Backend Development.**
 
 - 📫 How to reach me **ksd.markmax@gmail.com**
+  
+<br/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mark169z&theme=default" alt="mark169z" /></p>
+
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/Mark169Z/Mark169Z/output/github-contribution-grid-snake.svg"/></p>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,5 +22,4 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
+---

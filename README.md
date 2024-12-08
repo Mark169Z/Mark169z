@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on **Frontend Development.**
+- 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **Cyber Security and Backend Development.**
+- 🌱 I’m currently learning **Cyber Security.**
 
 - 📫 How to reach me **ksd.markmax@gmail.com**
   
